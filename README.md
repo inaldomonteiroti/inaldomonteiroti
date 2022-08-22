@@ -5,8 +5,11 @@
   </a> 
 </p>
 <div display="inline-block">
- <h1 align="center">Inaldo Monteiro
- </h1>
+ <p>Sou um apaixonado por tecnologias. Estou sempre buscando novos conhecimentos para implementar em meus projetos de vida. Me formei em Gestão de Tecnologia da Informação pela Universidade do Sul de Santa Catarina em 2008.
+
+Desenvolver soluções para as empresas na internet sempre foram o foco do meu trabalho. Durante esse processo me especializei em Segurança da Informação e Engenharia de Software. Acredito que é minha responsabilidade como profissional de TI, promover idėias originais e ser um recurso criativo para as empresas e os seus profissionais. Sou uma pessoa persistente, envolvida e curiosa que valoriza o trabalho, a família e a responsabilidade.
+
+Stacks: ITIL, Desenvolvimento de Sites, Sistemas, Blogs e Lojas Virtuais. Experiência em HTML, CSS,  Javascript, Jquery,  PHP,  Laravel, Bootstrap, Materialize,  Git, Docker, Wordpress e Woocommerce.</p>
 </div>
 
 <p align="center">
