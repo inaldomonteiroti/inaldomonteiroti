@@ -6,7 +6,7 @@
 </p>
 <div display="inline-block">
  <p>
-Desenvolver soluções para as empresas na internet sempre foram o foco do meu trabalho. Durante esse processo me especializei em Segurança da Informação e Engenharia de Software. Acredito que é minha responsabilidade como profissional de TI, promover idėias originais e ser um recurso criativo para as empresas e os seus profissionais. Sou uma pessoa persistente, envolvida e curiosa que valoriza o trabalho, a família e a responsabilidade.
+Desenvolver soluções para as empresas na internet sempre foram o foco do meu trabalho. Durante esse processo me especializei em Engenharia de Software. Acredito que é minha responsabilidade como profissional de TI, promover idėias originais e ser um recurso criativo para as empresas e os seus profissionais. Sou uma pessoa persistente, envolvida e curiosa que valoriza o trabalho, a família e a responsabilidade.
 
 Stacks: ITIL, Desenvolvimento de Sites, Sistemas, Blogs e Lojas Virtuais. Experiência em HTML, CSS,  Javascript, Jquery,  PHP,  Laravel, Bootstrap, Materialize,  Git, Docker, Wordpress e Woocommerce.</p>
 </div>
