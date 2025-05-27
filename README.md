@@ -15,12 +15,19 @@ As a Senior Full Stack Engineer, I bring over a decade of experience delivering 
 Stacks:
 
 − Languages: JavaScript (ES6+), TypeScript, Python, Node.js, PHP
+
 − Frontend Engineering: React, Next.js, Vue.js, Nuxt.js, Svelte, React Native, Tailwind CSS, Redux, Zustand, Pinia, Jquery
+
 − API & System Architecture: REST, GraphQL, Microservices, Event-Driven Design, Kafka, RabbitMQ
+
 − Backend Technologies: Express.js, NestJS, Django, FastAPI, RabbitMQ, Kafka, Laravel, Wordpress
+
 − Databases & Caching: PostgreSQL, MySQL, MongoDB, Redis
+
 − Cloud Platforms & Infrastructure: AWS (Lambda, S3, RDS, EC2), GCP, Docker, Kubernetes, Terraform
+
 − DevOps & Test Automation: GitHub Actions, GitLab CI, TDD, Jest, Cypress, OAuth 2.0, JWT
+
 − Collaboration & Delivery: Agile, Scrum, Jira, Notion, Mentorship, Code Reviews, Stakeholder Communication
 
 </p>
