@@ -8,7 +8,11 @@
  <p>
 Developing solutions for companies on the Internet has always been the focus of my work. During this process, I specialized in Software Engineering. I believe that it is my responsibility as an IT professional to promote original ideas and be a creative resource for companies and their professionals. I am a persistent, involved and curious person who values ​​work, family and responsibility.
 
-Stacks: ITIL, Desenvolvimento de Sites, Sistemas, Blogs e Lojas Virtuais. Experiência em HTML, CSS,  Javascript, TypeScript, Jquery,  PHP,  Laravel, Bootstrap, Materialize,  Git, Docker, Wordpress e Woocommerce.</p>
+I build scalable systems that don’t just work — they last.
+
+As a Senior Full Stack Engineer, I bring over a decade of experience delivering real-world impact at companies, where I led remote engineering initiatives across eCommerce, fintech, and enterprise platforms. I’ve architected cloud-native SaaS platforms, shipped lightning-fast applications, and built infrastructure that scales effortlessly — while mentoring teams and collaborating across time zones. From backend systems to polished UIs, I move fast without breaking things. I thrive in async, remote-first environments and lead with clarity, ownership, and a deep understanding of how to turn product goals into robust software.
+
+Stacks: ITIL, Website, Systems, Blogs and Online Store Development. Experience in HTML, CSS, Javascript, TypeScript, Jquery, PHP, Laravel, Bootstrap, Materialize, Git, Docker, Wordpress and Woocommerce.</p>
 </div>
 
 <p align="center">
