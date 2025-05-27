@@ -12,7 +12,18 @@ I build scalable systems that don’t just work — they last.
 
 As a Senior Full Stack Engineer, I bring over a decade of experience delivering real-world impact at companies, where I led remote engineering initiatives across eCommerce, fintech, and enterprise platforms. I’ve architected cloud-native SaaS platforms, shipped lightning-fast applications, and built infrastructure that scales effortlessly — while mentoring teams and collaborating across time zones. From backend systems to polished UIs, I move fast without breaking things. I thrive in async, remote-first environments and lead with clarity, ownership, and a deep understanding of how to turn product goals into robust software.
 
-Stacks: ITIL, Website, Systems, Blogs and Online Store Development. Experience in HTML, CSS, Javascript, TypeScript, Jquery, PHP, Laravel, Bootstrap, Materialize, Git, Docker, Wordpress and Woocommerce.</p>
+Stacks:
+
+− Languages: JavaScript (ES6+), TypeScript, Python, Node.js, PHP
+− Frontend Engineering: React, Next.js, Vue.js, Nuxt.js, Svelte, React Native, Tailwind CSS, Redux, Zustand, Pinia, Jquery
+− API & System Architecture: REST, GraphQL, Microservices, Event-Driven Design, Kafka, RabbitMQ
+− Backend Technologies: Express.js, NestJS, Django, FastAPI, RabbitMQ, Kafka, Laravel, Wordpress
+− Databases & Caching: PostgreSQL, MySQL, MongoDB, Redis
+− Cloud Platforms & Infrastructure: AWS (Lambda, S3, RDS, EC2), GCP, Docker, Kubernetes, Terraform
+− DevOps & Test Automation: GitHub Actions, GitLab CI, TDD, Jest, Cypress, OAuth 2.0, JWT
+− Collaboration & Delivery: Agile, Scrum, Jira, Notion, Mentorship, Code Reviews, Stakeholder Communication
+
+</p>
 </div>
 
 <p align="center">
