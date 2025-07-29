@@ -36,16 +36,6 @@ Stacks:
 <p align="center">
   <img src="assets/levi.gif" width="250">
 </p>
-
-
-   
-   
-## 🖥️ Technologies and Tools 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=inaldomonteiroti&show_icons=true&include_all_commits=true&count_private=false"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaldomonteiroti&layout=compact&langs_count=8"/>
-</div>
    
 <!--
 **inaldomonteiroti/inaldomonteiroti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
