@@ -1,11 +1,3 @@
-<p align="center">
-  </p>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/inaldo-monteiro-51801269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</p>
-<div display="inline-block">
- <p>
 Developing solutions for companies on the Internet has always been the focus of my work. During this process, I specialized in Software Engineering. I believe that it is my responsibility as an IT professional to promote original ideas and be a creative resource for companies and their professionals. I am a persistent, involved and curious person who values ​​work, family and responsibility.
 
 I build scalable systems that don’t just work — they last.
