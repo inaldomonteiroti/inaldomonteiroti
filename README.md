@@ -1,8 +1,4 @@
-## Hi there 👋
-
-### *About Me!*
-
-<h3 align="center"> Senior Full Stack Engineer | Solution Architect </h3> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&vCenter=true&width=900&height=60&lines=Inaldo+Monteiro;Senior+Full+Stack+Engineer+%7C+Solution+Architect)](https://git.io/typing-svg)
 
 I build scalable systems that don’t just work — they last.
 
