@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&vCenter=true&width=900&height=60&lines=Inaldo+Monteiro;Senior+Full+Stack+Engineer+%7C+Solution+Architect)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Inaldo+Monteiro....;Senior+Full+Stack+Engineer+%7C+Solution+Architect&center=true&size=27&width=900&height=60">
+  </a>
+</h1>
 
 > I build scalable systems that don’t just work — they last.
 
