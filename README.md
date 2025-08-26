@@ -6,7 +6,7 @@
 
 > I build scalable systems that don’t just work — they last.
 
-As a **Senior Full Stack Engineer**, I bring over a decade of experience delivering real-world impact at scale. I’ve led remote engineering efforts across eCommerce, fintech, and enterprise platforms — architecting cloud-native SaaS systems, building lightning-fast UIs, and designing infrastructure that scales. I thrive in async, remote-first teams, and lead with clarity, ownership, and a sharp eye for transforming product goals into robust, maintainable software.
+As a **Senior Full Stack Engineer**, I bring over a decade of experience delivering real-world impact at scale. I’ve led remote engineering efforts across eCommerce, fintech, and enterprise platforms, architecting cloud-native SaaS systems, building lightning-fast UIs, and designing infrastructure that scales. I thrive in async, remote-first teams, and lead with clarity, ownership, and a sharp eye for transforming product goals into robust, maintainable software.
 
 ---
 
